@@ -5,15 +5,20 @@ References
 =============
 
 - https://learnopencv.com/camera-calibration-using-opencv
+
 - https://learnopencv.com/geometry-of-image-formation
 
 - https://www.kaggle.com/code/soumya044/camera-calibration/notebook
 
 - https://darkpgmr.tistory.com/32
+
 - https://darkpgmr.tistory.com/107
+
 - https://darkpgmr.tistory.com/31
 
 - https://www.mathworks.com/help///visionhdl/ug/image-undistort.html
+
+- https://github.com/bvnayak/stereo_calibration
 
 Author
 =============
