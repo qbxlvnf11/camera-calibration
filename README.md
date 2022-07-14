@@ -4,11 +4,16 @@ Simple examples of camera calibration (the process of estimating the parameters 
 References
 =============
 
-https://learnopencv.com/geometry-of-image-formation/
+- https://learnopencv.com/camera-calibration-using-opencv
+- https://learnopencv.com/geometry-of-image-formation
 
-https://learnopencv.com/camera-calibration-using-opencv/
+- https://www.kaggle.com/code/soumya044/camera-calibration/notebook
 
-https://www.kaggle.com/code/soumya044/camera-calibration/notebook
+- https://darkpgmr.tistory.com/32
+- https://darkpgmr.tistory.com/107
+- https://darkpgmr.tistory.com/31
+
+- https://www.mathworks.com/help///visionhdl/ug/image-undistort.html
 
 Author
 =============
