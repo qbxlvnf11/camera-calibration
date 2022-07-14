@@ -1,6 +1,17 @@
 # camera-calibration
 Simple examples of camera calibration (the process of estimating the parameters of a camera)
 
+Dataset
+=============
+
+- Multi-view checkerboard images for undistortion
+
+https://github.com/udacity/CarND-Advanced-Lane-Lines
+
+- Checkerboard images for stereo camera calibration
+
+http://vision.deis.unibo.it/~smatt/stereo/Calibration.html
+
 References
 =============
 
@@ -18,18 +29,13 @@ References
 
 - https://www.mathworks.com/help///visionhdl/ug/image-undistort.html
 
-- https://github.com/bvnayak/stereo_calibration
-
-Dataset
-=============
-
-- Multi-view checkerboard images for undistortion
-
-https://github.com/udacity/CarND-Advanced-Lane-Lines
-
-- Checkerboard images for stereo camera calibration
-
-http://vision.deis.unibo.it/~smatt/stereo/Calibration.html
+```
+@article{
+  title={Stereo calibration with absolute phase target},
+  author={Yuwei Wang et al.},
+  link=https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-16-22254&id=416124
+}
+```
 
 Author
 =============
