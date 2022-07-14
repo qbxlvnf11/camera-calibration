@@ -20,6 +20,17 @@ References
 
 - https://github.com/bvnayak/stereo_calibration
 
+Dataset
+=============
+
+- Multi-view checkerboard images for undistortion
+
+https://github.com/udacity/CarND-Advanced-Lane-Lines
+
+- Checkerboard images for stereo camera calibration
+
+http://vision.deis.unibo.it/~smatt/stereo/Calibration.html
+
 Author
 =============
 
