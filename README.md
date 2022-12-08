@@ -1,5 +1,7 @@
-# camera-calibration
-Simple examples of camera calibration (the process of estimating the parameters of a camera)
+Contents
+=============
+
+- Simple code examples and explanation of camera calibration (the process of estimating the parameters of a camera)
 
 Dataset
 =============
