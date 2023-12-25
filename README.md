@@ -1,10 +1,15 @@
 Contents
 =============
 
-- Simple code examples and explanation of camera calibration (the process of estimating the parameters of a camera)
-
+- [Simple code examples and explanation of camera calibration, camera parameters](https://github.com/qbxlvnf11/camera-calibration/blob/main/camera_calibration_tutorial.ipynb)
+- [CMU Panoptic Dataset camera parameters visualization in world coordinates](https://github.com/qbxlvnf11/camera-calibration/blob/main/Panoptic_Dataset_Camera_3D_Plot.ipynb)
+  
 Dataset
 =============
+
+- CMU Panoptic Dataset
+
+http://domedb.perception.cs.cmu.edu/
 
 - Multi-view checkerboard images for undistortion
 
@@ -16,6 +21,8 @@ http://vision.deis.unibo.it/~smatt/stereo/Calibration.html
 
 References
 =============
+
+- https://towardsdatascience.com/camera-extrinsic-matrix-with-example-in-python-cfe80acab8dd
 
 - https://learnopencv.com/camera-calibration-using-opencv
 
