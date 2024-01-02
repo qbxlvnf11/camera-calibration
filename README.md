@@ -5,7 +5,7 @@ Contents
 - [CMU Panoptic Dataset camera parameters visualization in world coordinates](https://github.com/qbxlvnf11/camera-calibration/blob/main/Panoptic_Dataset_Camera_3D_Plot.ipynb)
 
 <p align="center">
-  <img width="600" height="700" img src="https://github.com/qbxlvnf11/camera-calibration/assets/52263269/3ef1c4c0-4ae3-4013-ac88-8ff3fc3efcde"></img>
+  <img width="1000" height="700" img src="https://github.com/qbxlvnf11/camera-calibration/assets/52263269/3ef1c4c0-4ae3-4013-ac88-8ff3fc3efcde"></img>
 </p>
   
 Dataset
