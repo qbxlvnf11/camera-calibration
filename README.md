@@ -4,7 +4,9 @@ Contents
 - [Simple code examples and explanation of camera calibration, camera parameters](https://github.com/qbxlvnf11/camera-calibration/blob/main/camera_calibration_tutorial.ipynb)
 - [CMU Panoptic Dataset camera parameters visualization in world coordinates](https://github.com/qbxlvnf11/camera-calibration/blob/main/Panoptic_Dataset_Camera_3D_Plot.ipynb)
 
-<img src="https://github.com/qbxlvnf11/camera-calibration/assets/52263269/3ef1c4c0-4ae3-4013-ac88-8ff3fc3efcde" width="80%" class="center"></img>
+<p align="center">
+  <img width="500" height="500" img src="https://github.com/qbxlvnf11/camera-calibration/assets/52263269/3ef1c4c0-4ae3-4013-ac88-8ff3fc3efcde"></img>
+</p>
   
 Dataset
 =============
